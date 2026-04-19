@@ -1,0 +1,73 @@
+{
+    "author": "Parsley_fz8",
+    "dependencies": {},
+    "keywords": [],
+    "name": "gin-rummy",
+    "pebble": {
+        "displayName": "Gin Rummy",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/IMAGE_SUIT_D",
+                    "name": "IMAGE_SUIT_D",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_SUIT_C",
+                    "name": "IMAGE_SUIT_C",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_RANK_10_RED",
+                    "name": "IMAGE_RANK_10_RED",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_RANK_10_BLACK",
+                    "name": "IMAGE_RANK_10_BLACK",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_SUIT_S",
+                    "name": "IMAGE_SUIT_S",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_SUIT_H",
+                    "name": "IMAGE_SUIT_H",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_ICON_1",
+                    "menuIcon": true,
+                    "name": "IMAGE_ICON_1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery",
+            "gabbro"
+        ],
+        "uuid": "f10d41ae-8722-4b46-8fc5-4dab219b0f2b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
